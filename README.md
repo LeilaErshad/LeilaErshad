@@ -23,6 +23,8 @@ Working at the intersection of QA strategy, test automation, and engineering cul
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-AI-black?style=flat&logo=anthropic&logoColor=white)
+![AI-Assisted Testing](https://img.shields.io/badge/AI--Assisted_Testing-8A2BE2?style=flat&logoColor=white)
 
 ---
 
