@@ -1,16 +1,35 @@
-## Hi there 👋
+# Leila Ershad
 
-<!--
-**LeilaErshad/LeilaErshad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Quality Engineering · Samhall AB · Stockholm**
 
-Here are some ideas to get you started:
+I build quality into systems — not just test them.
+Working at the intersection of QA strategy, test automation, and engineering culture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I do
+
+- **Test Architecture** — designing scalable test strategies from unit to E2E
+- **Automation Engineering** — Playwright-based test suites integrated in CI/CD
+- **Shift Left QA** — embedding quality thinking early in the development lifecycle
+- **Cross-functional collaboration** — bridging dev, product, and operations
+
+---
+
+## Tech
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+---
+
+## Currently
+
+Scaling test infrastructure at Samhall — building automation pipelines that give developers fast, reliable feedback.
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/leila-ershad-886b64203)
